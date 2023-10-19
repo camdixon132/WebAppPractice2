@@ -16,4 +16,4 @@
 --('Cristiano Ronaldo', 'cristiano.ronaldo@gmail.com', '+32447788993', 'Manchester, England'),
 --('Boris Johnson', 'boris.johnson@gmail.com', '+4499778855', 'London, England');
 
-SELECT * FROM clients;
+--SELECT * FROM clients;
