@@ -50,3 +50,4 @@ C:\Users\camdi\source\repos\dotNetCoreWebApp\dotNetCoreWebApp\obj\Debug\net5.0\r
 C:\Users\camdi\source\repos\dotNetCoreWebApp\dotNetCoreWebApp\obj\Debug\net5.0\Razor\Pages\Clients\Index.cshtml.g.cs
 C:\Users\camdi\source\repos\dotNetCoreWebApp\dotNetCoreWebApp\obj\Debug\net5.0\Razor\Pages\Clients\Create.cshtml.g.cs
 C:\Users\camdi\source\repos\dotNetCoreWebApp\dotNetCoreWebApp\obj\Debug\net5.0\Razor\Pages\HomePage.cshtml.g.cs
+C:\Users\camdi\source\repos\dotNetCoreWebApp\dotNetCoreWebApp\obj\Debug\net5.0\dotNetCoreWebApp.sourcelink.json
